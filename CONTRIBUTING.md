@@ -4,12 +4,11 @@ Looking to report an issue/bug or make a feature request? Please refer to the [R
 
 Thanks for your interest in contributing to Tachiyomi!
 
-
 # Code contributions
 
 Pull requests are welcome!
 
-If you're interested in taking on [an open issue](https://github.com/jobobby04/TachiyomiSY/issues), please comment on it so others are aware.
+If you're interested in taking on [an open issue](https://github.com/pazbryant7/DyomiSY/issues), please comment on it so others are aware.
 You do not need to ask for permission nor an assignment.
 
 ## Prerequisites
@@ -32,7 +31,6 @@ Before you start, please note that the ability to use following technologies is 
 
 Translations are done externally via Weblate. See [our website](https://mihon.app/docs/contribute#translation) for more details.
 
-
 # Forks
 
 Forks are allowed so long as they abide by [the project's LICENSE](/LICENSE).
@@ -40,14 +38,14 @@ Forks are allowed so long as they abide by [the project's LICENSE](/LICENSE).
 When creating a fork, remember to:
 
 - To avoid confusion with the main app:
-    - Change the app name
-    - Change the app icon
-    - Change or disable the [app update checker](/app/src/main/java/eu/kanade/tachiyomi/data/updater/AppUpdateChecker.kt)
+  - Change the app name
+  - Change the app icon
+  - Change or disable the [app update checker](/app/src/main/java/eu/kanade/tachiyomi/data/updater/AppUpdateChecker.kt)
 - To avoid installation conflicts:
-    - Change the `applicationId` in [`build.gradle.kts`](/app/build.gradle.kts)
-
+  - Change the `applicationId` in [`build.gradle.kts`](/app/build.gradle.kts)
 
 ### Supporting Cloud Sync - Google Drive Implementation
+
 1. Go to [Google Cloud Console](https://console.cloud.google.com)
 2. Create a new project
 3. Go to API & Services -> Library -> Google Drive API and click enable

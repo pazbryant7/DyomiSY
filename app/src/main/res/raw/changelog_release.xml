@@ -200,7 +200,7 @@
     <changelogversion versionName="1.7.0" changeDate="Jun 1,2021">
         <changelogtext>[b]Based on Tachiyomi stable 0.11.1(from 0.10.12)[/b]</changelogtext>
         <changelogtext>[b]New[/b] Add reader bottom button customization (by E-SHL)</changelogtext>
-        <changelogtext>Add more lewd tag checks (Jobobby04, E-SHL)</changelogtext>
+        <changelogtext>Add more lewd tag checks (pazbryant7, E-SHL)</changelogtext>
         <changelogtext>Convert chapter bottom sheet to a dialog</changelogtext>
         <changelogtext>Exh login menu now supports a custom igneous cookie</changelogtext>
         <changelogtext>Exh sync fixes, now doesn't stop on missing galleries</changelogtext>
@@ -353,7 +353,7 @@
         <changelogtext>Fix source category deletion crash</changelogtext>
     </changelogversion>
     <changelogversion versionName="1.0.0" changeDate="July 9,2020">
-        <changelogtext>Welcome to my first full release of TachiyomiSY!</changelogtext>
+        <changelogtext>Welcome to my first full release of DyomiSY!</changelogtext>
         <changelogtext>I hope you enjoy your stay, many improvements are planned!</changelogtext>
     </changelogversion>
 </changelog>
