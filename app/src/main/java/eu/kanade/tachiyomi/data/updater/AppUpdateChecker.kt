@@ -45,11 +45,9 @@ class AppUpdateChecker {
 }
 
 val GITHUB_REPO: String by lazy {
-    // SY -->
     if (isPreviewBuildType) {
-        "jobobby04/TachiyomiSYPreview"
+        "pazbryant7/DyomiSYPreview"
     } else {
-        "jobobby04/tachiyomiSY"
+        "pazbryant7/DyomiSY"
     }
-    // SY <--
 }
